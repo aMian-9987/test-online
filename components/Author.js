@@ -1,6 +1,6 @@
 import {Avatar, Divider} from 'antd'
 import {AiFillGithub, AiFillLinkedin, AiFillTwitterCircle } from "react-icons/ai";
-'
+
 
 const Author=()=>{
     return (
